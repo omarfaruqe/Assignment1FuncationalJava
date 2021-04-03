@@ -28,7 +28,7 @@ public class Assignment1FunctionalJava{
     Starting code:
     */
     public int factorial(int n) {
-        return n;
+        return -1;
     }
 
     /*
